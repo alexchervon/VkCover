@@ -14,8 +14,8 @@
 > 	img = Image.open('image.png')
 
 5 - Настройка шапки
-> CONST_WIDTH = 1590 - Ширина
-> CONST_HEIGHT = 400 - Высота
+> CONST_WIDTH = 1590 - Ширина<br/>
+> CONST_HEIGHT = 400 - Высота<br/>
 > CONST_NAME = "header" - Название фото-шапки на выходе	
 
 6 - Обновляйте страницу и радуйтесь!
